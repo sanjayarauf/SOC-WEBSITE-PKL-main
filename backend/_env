@@ -1,0 +1,14 @@
+NEXTAUTH_SECRET=5b7548cecb17bcf4ea42392d801ce1aa
+# PostgreSQL (dari Vercel/Neon)
+DATABASE_URL=postgresql://postgres:123@localhost:5432/SOC
+
+
+
+
+PRTG_HOST=http://127.0.0.1
+PRTG_USERNAME=prtgadmin
+PRTG_PASSHASH=2587855529
+
+
+EMAIL_USER=dffe85392@gmail.com
+EMAIL_PASS=fdsj qnwy lkyy ilmg
